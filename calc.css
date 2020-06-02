@@ -1,0 +1,227 @@
+/* *{
+    background-color: blueviolet;
+} */
+
+body{
+    background: green; 
+}
+
+#container{
+    background-color: black;
+    width: 300px;
+    /* text-align: right; */
+    height: 500px;
+    border-radius: 8px;
+    position: relative;
+}
+
+#display{
+    width: 276px;
+    height: 100px;
+    text-align: right;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    font-size: 40px;
+    position: absolute;
+
+    top: 3%;
+}
+
+#pads{
+    position: absolute;
+    top: 25%;
+}
+
+#N7{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+
+#N8{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#N9{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#plus{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 40px;
+}
+#pads2{
+    position: absolute;
+    top: 43%;
+}
+
+#N4{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+
+#N5{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#N6{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#minus{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 40px;
+}
+
+#pads3{
+    position: absolute;
+    top: 62%;
+}
+
+#N1{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+
+#N2{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#N3{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#multiply{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 40px;
+}
+
+#pads4{
+    position: absolute;
+    top: 80%;
+}
+
+#clear{
+    margin: 0;
+    width: 72px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 40px;
+}
+
+#N0{
+    margin: 0;
+    padding: 5px;
+    width: 50px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#equal{
+    margin: 0;
+    width: 50px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 50px;
+}
+#divide{
+    margin: 0;
+    width: 50px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 40px;
+}
+#decimal{
+    margin: 0;
+    width: 50px;
+    height: 98px;
+    color:white;
+    background: transparent;
+    outline: none;
+    border: 0;
+    font-size: 40px;
+}
