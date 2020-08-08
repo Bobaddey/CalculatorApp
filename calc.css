@@ -67,7 +67,7 @@ body{
 }
 #plus{
     margin: 0;
-    width: 72px;
+    width: 65px;
     height: 98px;
     color:white;
     background: transparent;
@@ -113,7 +113,7 @@ body{
 }
 #minus{
     margin: 0;
-    width: 72px;
+    width: 65px;
     height: 98px;
     color:white;
     background: transparent;
@@ -160,7 +160,7 @@ body{
 }
 #multiply{
     margin: 0;
-    width: 72px;
+    width: 65px;
     height: 98px;
     color:white;
     background: transparent;
